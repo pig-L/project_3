@@ -3,7 +3,7 @@
 			<ul>
 			<li><router-link to="/index"><img src="static/images/foot_1.png" alt=""><p>首页</p></router-link></li>
 			<li><router-link to="/find"><img src="static/images/foot_2.png" alt=""><p>发现</p></router-link></li>
-			<li><router-link to="/login"><img src="staticimages/foot_3.png" alt=""><p>订单</p></router-link></li>
+			<li><router-link to="/login"><img src="static/images/foot_3.png" alt=""><p>订单</p></router-link></li>
 			<li><router-link to="/login"><img src="static/images/foot_4.png" alt=""><p>我的</p></router-link></li>
 			</ul>
 		</footer>
